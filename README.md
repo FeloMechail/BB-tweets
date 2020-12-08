@@ -14,3 +14,4 @@ Steps:
 3. choose whether you want to follow tweets about any console stock.
 
 once BB canada tweets about it, the Tweet will appear in your console/cmd a webpage will open in your browser to BB cart where you can checkout from there.
+it also prints out the latest tweet every 3 mins
