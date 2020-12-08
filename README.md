@@ -13,4 +13,4 @@ Steps:
 2. Download "main.py" and open the file with cmd or your preffered method.
 3. choose whether you want to follow tweets about any console stock.
 
-once BB canada tweets about it, a webpage will appear in your browser to BB cart where you can checkout from there.
+once BB canada tweets about it, the Tweet will appear in your console/cmd a webpage will open in your browser to BB cart where you can checkout from there.
